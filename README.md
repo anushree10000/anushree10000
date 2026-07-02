@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anushree Dixit! 👋</h1>
+<h1 align="center">Anushree Dixit</h1>
 <p align="center">
   <strong>iOS & AI Engineer | Flutter & Full-Stack Developer</strong>
 </p>
@@ -10,29 +10,29 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a Computer Science student deeply passionate about **native mobile development, cross-platform apps, and agentic AI workflow orchestration**. My engineering focus revolves around solving complex computational problems using optimal data structures and converting multi-dimensional datasets into production-grade mobile experiences.
+I am a Computer Science student focused on native mobile development, cross-platform applications, and agentic AI workflow orchestration. My core engineering practices center on solving complex computational problems using optimal data structures and converting multi-dimensional datasets into production-grade mobile experiences.
 
-* 📱 **Mobile & Cross-Platform Architecture:** Building robust real-time applications across both Swift and Flutter ecosystems through selective engineering programs and research internships.
-* 🤖 **Agentic AI & Analytics:** Engineering autonomous LLM tools while analyzing large data pipelines using Python’s data science ecosystem.
-* 🧠 **Core Engineering:** Grounded in strong computer science fundamentals, focusing on algorithmic efficiency, clean data structures, and decoupled architectures.
+* **Mobile & Cross-Platform Architecture:** Building robust real-time applications across both Swift and Flutter ecosystems through selective engineering programs and research internships.
+* **Agentic AI & Analytics:** Engineering autonomous LLM tools while analyzing large data pipelines using Python’s data science ecosystem.
+* **Core Engineering:** Grounded in strong computer science fundamentals, focusing on algorithmic efficiency, clean data structures, and decoupled architectures.
 
 ---
 
-## 🛠️ Professional Internships & Programs
+## Professional Internships & Programs
 
-### 📱 Research Intern — Samsung PRISM
+### Research Intern — Samsung PRISM
 *Engineered an intelligent mobile application designed to capture real-time telemetry and sensor data over user driving cycles. It parses complex multi-dimensional datasets to classify driving patterns into clear behavior tiers.*
 * **Core Stack:** Swift, Flutter, Mobile System Architecture, Data Filtering Pipelines
 
-### 🍎 iOS Developer Intern — Apple & Infosys Program
+### iOS Developer Intern — Apple & Infosys Program
 *Collaborated on design patterns and native iOS application lifecycles, focusing on responsive layouts, immersive mobile experiences, and scalable codebase architecture.*
 * **Core Stack:** Swift, UIKit, ARKit / RealityKit, CoreData
 
 ---
 
-## 🧰 Tech Stack & Skills
+## Tech Stack & Skills
 
 | Domain | Frameworks, Languages & Tools |
 | :--- | :--- |
@@ -42,7 +42,7 @@ I am a Computer Science student deeply passionate about **native mobile developm
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=dark&hide_border=true" alt="Anushree's GitHub Stats" height="165px" />
@@ -51,7 +51,7 @@ I am a Computer Science student deeply passionate about **native mobile developm
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="mailto:anushreedixit16@gmail.com"><img src="https://img.shields.io/badge/Email-anushreedixit16%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
