@@ -42,13 +42,18 @@ An autonomous data processing setup structured to orchestrate function-calling s
 
 ---
 
+---
+
 ## 📊 Performance Analytics & Velocity Matrix
 
 Here is a live layout of my engineering throughput, codebase updates, and structural metrics across development cycles:
 
-![](https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushree10000&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushree10000&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
@@ -56,7 +61,9 @@ Here is a live layout of my engineering throughput, codebase updates, and struct
 
 The contribution matrix mapping active pushes, structural updates, and repository activity across workspaces:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anushree10000&theme=radical)
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anushree10000&theme=radical" alt="Commit Streak" />
+</p>
 
 ---
 
@@ -64,3 +71,5 @@ The contribution matrix mapping active pushes, structural updates, and repositor
 
 * **Inquiries & Collaborations:** [anushreedixit16@gmail.com](mailto:anushreedixit16@gmail.com)
 * **Professional Network:** [LinkedIn](https://linkedin.com)
+
+
