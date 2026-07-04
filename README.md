@@ -42,20 +42,21 @@ An autonomous data processing setup structured to orchestrate function-calling s
 
 ---
 
-## 📊 Analytics & Platform Telemetry
+## 📊 Performance Analytics & Velocity Matrix
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&count_private=true" alt="Anushree's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushree10000&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
-</p>
+Here is a live layout of my engineering throughput, codebase updates, and structural metrics across development cycles:
+
+![](https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushree10000&layout=compact&theme=radical)
 
 ---
 
-## 🔋 Operational Contributions & Output Velocity
+## 🔋 Operational Contributions & Activity Graph
 
-Below is a live projection of structural commits, data engineering pushes, and active architecture updates across my workspaces:
+The contribution matrix mapping active pushes, structural updates, and repository activity across workspaces:
 
-![Anushree's Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=anushree10000&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anushree10000&theme=radical)
 
 ---
 
