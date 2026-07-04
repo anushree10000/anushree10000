@@ -11,6 +11,19 @@ I am a software engineer specializing in **Native iOS Architecture**, **High-Con
 
 ---
 
+## 🔋 Operational Contributions & Output Velocity
+
+The contribution matrix and filled gradient activity wave mapping active pushes across workspaces:
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushree10000&theme=radical&area=true&bg_color=14151b&hide_border=true" alt="Anushree's Codebase Activity Wave" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anushree10000&theme=radical&hide_border=true" alt="Commit Streak" />
+</p>
+
+
 ## ⚡ Technical Core & Competencies
 
 * **System Architecture & Automation:** Engineering decoupled, stateless worker-queue pipelines, distributed job execution patterns, and autonomous LLM orchestration frameworks.
@@ -42,32 +55,6 @@ An autonomous data processing setup structured to orchestrate function-calling s
 
 ---
 
----
-
----
-
-## 📊 Performance Analytics & Codebase Telemetry
-
-Here is a live layout of my engineering throughput, codebase updates, and structural metrics across development cycles:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&text_bold=false&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anushree10000&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🔋 Operational Contributions & Output Velocity
-
-The contribution matrix mapping active pushes, structural updates, and repository activity across workspaces:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anushree10000&theme=radical&hide_border=true" alt="Commit Streak" />
-</p>
-
----
 
 ## 🌐 Connectivity Matrix
 
