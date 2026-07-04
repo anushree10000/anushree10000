@@ -1,65 +1,65 @@
-<h1 align="center">Anushree Dixit</h1>
-<p align="center">
-  <strong>iOS & AI Engineer | Flutter & Full-Stack Developer</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anushree10000"><img src="https://img.shields.io/github/followers/anushree10000?style=flat-square&logo=github&label=Followers" alt="Followers"></a>
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-blue?style=flat-square" alt="Location">
-</p>
-
----
-
-## About Me
-
-I am a Computer Science student focused on native mobile development, cross-platform applications, and agentic AI workflow orchestration. My core engineering practices center on solving complex computational problems using optimal data structures and converting multi-dimensional datasets into production-grade mobile experiences.
-
-* **Mobile & Cross-Platform Architecture:** Building robust real-time applications across both Swift and Flutter ecosystems through selective engineering programs and research internships.
-* **Agentic AI & Analytics:** Engineering autonomous LLM tools while analyzing large data pipelines using Python’s data science ecosystem.
-* **Core Engineering:** Grounded in strong computer science fundamentals, focusing on algorithmic efficiency, clean data structures, and decoupled architectures.
-
----
-
-## Professional Internships & Programs
-
-### Research Intern — Samsung PRISM
-*Engineered an intelligent mobile application designed to capture real-time telemetry and sensor data over user driving cycles. It parses complex multi-dimensional datasets to classify driving patterns into clear behavior tiers.*
-* **Core Stack:** Swift, Flutter, Mobile System Architecture, Data Filtering Pipelines
-
-### iOS Developer Intern — Apple & Infosys Program
-*Collaborated on design patterns and native iOS application lifecycles, focusing on responsive layouts, immersive mobile experiences, and scalable codebase architecture.*
-* **Core Stack:** Swift, UIKit, ARKit / RealityKit, CoreData
-
----
-
-## Tech Stack & Skills
-
-| Domain | Frameworks, Languages & Tools |
-| :--- | :--- |
-| **Mobile & Cross-Platform** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white) ![ARKit](https://img.shields.io/badge/ARKit-007ACC?style=flat-square&logo=apple&logoColor=white) ![RealityKit](https://img.shields.io/badge/RealityKit-0052FF?style=flat-square&logo=apple&logoColor=white) |
-| **AI, Data & Analytics** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) |
-| **Core Fundamentals & Web** | ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Active-orange?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) |
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=dark&hide_border=true" alt="Anushree's GitHub Stats" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushree10000&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165px" />
-</p>
-
----
-
-## Let's Connect
+# 🪐 Hello, World! I'm Anushree Dixit
 
 <p align="left">
-  <a href="mailto:anushreedixit16@gmail.com"><img src="https://img.shields.io/badge/Email-anushreedixit16%40gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/iOS_Development-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+
+I am a software engineer specializing in **Native iOS Architecture**, **High-Concurrency Backend Systems**, and **Agentic AI Workflow Orchestration**. My core development practices center on solving data-intensive computational challenges, optimizing system pipelines, and transforming multi-dimensional datasets into fluid, production-grade user experiences.
+
+---
+
+## ⚡ Technical Core & Competencies
+
+* **System Architecture & Automation:** Engineering decoupled, stateless worker-queue pipelines, distributed job execution patterns, and autonomous LLM orchestration frameworks.
+* **Mobile & Real-Time Data Engineering:** Building responsive mobile applications capable of capturing and parsing high-throughput telemetry, sensor, and spatial coordinates.
+* **Performance & Data Optimization:** Leveraging optimal data models, low-overhead atomic locking structures, and analytical aggregation systems to build highly observable software layers.
+
+---
+
+## 🛠️ Specialized Ecosystem
+
+| Domain | Engineering Stack & Frameworks |
+| :--- | :--- |
+| **Mobile & Cross-Platform** | `Swift` • `UIKit` • `ARKit` • `RealityKit` • `CoreData` • `Flutter` |
+| **AI, Data & Backend** | `Python` • `FastAPI` • `PostgreSQL` • `LangChain` • `NumPy` • `Pandas` |
+| **Foundations & Core Web** | `Data Structures & Algorithms` • `TypeScript` • `React` • `WordPress` |
+
+---
+
+## 🏗️ Active Engineering Work & Research
+
+### ⚡ [ApexScheduler](https://github.com/anushree10000/codility_ai) | Distributed Multi-Tenant Job Engine
+An enterprise-grade background task processor engineered with a FastAPI frontend and a PostgreSQL state engine. Implements row-level atomic query claims via `FOR UPDATE SKIP LOCKED` to scale independent background worker clusters seamlessly under intense concurrent workloads without task duplication.
+
+### 🚗 [Driver-Classification-App](https://github.com/anushree10000/Driver-classification-app) | Real-Time Telemetry Pipeline (Samsung PRISM)
+A mobile analytics architecture that intercepts continuous device sensor telemetry and data cycles. Designed to evaluate complex multi-dimensional datasets over historical windows and dynamically compute predictive tiers to categorize driving behavior patterns.
+
+### 🤖 [AI Ingestion Pipeline](https://github.com/anushree10000/ai-tx-pipeline) | Agentic Automation Layout
+An autonomous data processing setup structured to orchestrate function-calling sequences and tool invocations, streamlining data routing through LLM decision nodes.
+
+---
+
+## 📊 Analytics & Platform Telemetry
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushree10000&show_icons=true&theme=radical&count_private=true" alt="Anushree's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushree10000&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anushree10000&theme=github-dark&hide_border=true" alt="Anushree's contribution graph" width="100%" />
-</p>
+## 🔋 Operational Contributions & Output Velocity
+
+Below is a live projection of structural commits, data engineering pushes, and active architecture updates across my workspaces:
+
+![Anushree's Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=anushree10000&theme=tokyonight)
+
+---
+
+## 🌐 Connectivity Matrix
+
+* **Inquiries & Collaborations:** [anushreedixit16@gmail.com](mailto:anushreedixit16@gmail.com)
+* **Professional Network:** [LinkedIn](https://linkedin.com)
